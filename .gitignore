@@ -1,0 +1,14 @@
+# Dependencias y logs
+node_modules/
+*.log
+npm-debug.log*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Entorno de desarrollo local
+.vscode/
+.idea/
