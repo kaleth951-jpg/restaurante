@@ -4,18 +4,6 @@ Sistema integral de gestión de reservas, mesas, comandas, KDS de cocina/bar y d
 
 ---
 
-## 🚀 Despliegue en GitHub Pages
-
-Este proyecto está construido 100% con tecnologías web estándar (HTML5, Vanilla CSS3 y JavaScript ES6+), sin necesidad de compilación o backend adicional:
-
-1. Sube este repositorio a tu cuenta de **GitHub**.
-2. Ve a la pestaña **Settings** (Configuración) de tu repositorio.
-3. En el menú lateral izquierdo, haz clic en **Pages**.
-4. En **Build and deployment** -> **Branch**, selecciona la rama `main` (o `master`) y la carpeta `/ (root)`.
-5. Haz clic en **Save**. En 1 o 2 minutos tu sistema estará en vivo en:
-   `https://<tu-usuario>.github.io/<tu-repositorio>/`
-
----
 
 ## 🔑 Credenciales Demo de Acceso
 
